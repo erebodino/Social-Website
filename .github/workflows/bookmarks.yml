@@ -29,4 +29,4 @@ jobs:
 
     - name: Run Tests
       run: |
-        pipenv run test
+        pytest bookmarks
