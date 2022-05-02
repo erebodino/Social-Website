@@ -8,6 +8,7 @@ django = "*"
 pytest = "*"
 pytest-django = "*"
 windows-curses = "*"
+black = "*"
 
 [dev-packages]
 
