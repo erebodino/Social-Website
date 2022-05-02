@@ -193,7 +193,7 @@
             ],
             "markers": "sys_platform == 'win32'",
             "version": "==2022.1"
-        },
+        }
     },
     "develop": {}
 }
