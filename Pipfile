@@ -8,6 +8,11 @@ django = "*"
 pytest = "*"
 pytest-django = "*"
 black = "*"
+pillow = "*"
+social-auth-app-django = "*"
+django-extensions = "*"
+pyopenssl = "*"
+werkzeug = "==0.16.0"
 
 [dev-packages]
 
